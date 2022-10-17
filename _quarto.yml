@@ -8,8 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: methodology.qmd
-        text: Methodology
+      - href: intro.qmd
+        text: Introduction
 
 format:
   html:

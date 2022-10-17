@@ -1,0 +1,26 @@
+---
+title: "Introduction"
+editor: visual
+---
+
+::: {#shiba}
+![](https://thehappypuppysite.com/wp-content/uploads/2018/06/Shiba-Inu-Wonderful-Watchdog-or-Family-Pet_-HP-long.jpg)
+:::
+
+## **Overview**
+
+::: {#intro}
+Good evening ladies and gentlemen, welcome to the intro page. Introduction means
+
+"a formal presentation of one person to another, in which each is told the other's name."
+
+Thank you very much.
+:::
+
+## Project Tasks
+
+-   do project
+
+-   get A+
+
+-   graduate

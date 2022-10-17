@@ -14,7 +14,9 @@ Good evening ladies and gentlemen, welcome to the intro page. Introduction means
 
 "a formal presentation of one person to another, in which each is told the other's name."
 
-Thank you very much.
+Thank you very much
+
+\-- Shiba Inu
 :::
 
 ## Project Tasks
